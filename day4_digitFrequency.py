@@ -1,6 +1,7 @@
 num = int(input("Enter a number: "))
 frequency = {}  # This will store digit counts
 
+
 while num > 0:
     digit = num % 10  # Get last digit
 
