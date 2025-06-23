@@ -9,7 +9,7 @@ else:
             is_primeNo = False     
             break
 if is_primeNo:
-    print(numner, "is a prime number.")
+    print(number, "is a prime number.")
 else:
     print(number, "is not a prime number.")            
     
